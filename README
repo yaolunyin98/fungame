@@ -1,0 +1,3 @@
+Please compile the file in linux just by typing the word 'make'.
+Once the compliation is done, find the executable called 'chess'
+run chess with './chess' and the instruction will show up
